@@ -18,3 +18,9 @@ MFth3v8VC37CNu3ug1DJd9dgAP9wxeh4IRogQCfRHvaJV4FD0SOXNRz63pzsaCxK
 XzNeBw==
 =RWS2
 -----END PGP PUBLIC KEY BLOCK-----
+
+
+## Decrypt
+Use my public key to decript the corresponding .asc file (be sure to import my public key first, mate)
+
+> gpg file_name.asc
